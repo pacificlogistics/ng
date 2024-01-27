@@ -1,4 +1,4 @@
-# Blue Way Logistics Software
+# Network Generator :: ng 
 
 Network Generator that calculates distance for logistics operations
 
